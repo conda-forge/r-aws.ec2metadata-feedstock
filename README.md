@@ -1,7 +1,3 @@
-<!--
-# -*- mode: jinja -*-
--->
-
 About r-aws.ec2metadata
 =======================
 
@@ -18,8 +14,17 @@ Summary: Retrieve Amazon EC2 instance metadata from within the running instance.
 Current build status
 ====================
 
-All platforms:
-[![noarch](https://img.shields.io/circleci/project/github/conda-forge/r-aws.ec2metadata-feedstock/master.svg?label=noarch)](https://circleci.com/gh/conda-forge/r-aws.ec2metadata-feedstock)
+
+<table><tr>
+    
+    <td>All platforms:</td>
+    <td>
+      <a href="https://dev.azure.com/conda-forge/feedstock-builds/_build/latest?definitionId=3334&branchName=master">
+        <img src="https://dev.azure.com/conda-forge/feedstock-builds/_apis/build/status/r-aws.ec2metadata-feedstock?branchName=master">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Current release info
 ====================
