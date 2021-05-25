@@ -3,7 +3,7 @@ About r-aws.ec2metadata
 
 Home: https://github.com/cloudyr/aws.ec2metadata
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aws.ec2metadata-feedstock/blob/master/LICENSE.txt)
 
