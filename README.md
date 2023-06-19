@@ -1,11 +1,11 @@
-About r-aws.ec2metadata
-=======================
+About r-aws.ec2metadata-feedstock
+=================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aws.ec2metadata-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/cloudyr/aws.ec2metadata
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-aws.ec2metadata-feedstock/blob/main/LICENSE.txt)
 
 Summary: Retrieve Amazon EC2 instance metadata from within the running instance.
 
